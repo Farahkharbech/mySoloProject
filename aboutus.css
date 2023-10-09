@@ -1,0 +1,29 @@
+
+body{
+    color: black;
+    background-image: linear-gradient( white);
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+
+body{
+    width: 100%;
+    height: 700px;
+    background-image: linear-gradient( rgba(255, 255, 255, 0.599),rgba(150, 86, 86, 0.468)),url("logo.jpg")}
+
+#video1{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+
+.presentation{ flex-direction: row-reverse;
+    font-style: italic;
+    width: 70%;
+    padding: 30px;
+    font-size: 20px;
+};
+
