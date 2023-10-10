@@ -16,8 +16,6 @@ body{
 
 .content{
     width: 50%;
-    margin-top: 50px;
-    padding: 30px;
 }
 .content h1{
     font-style: italic;
@@ -28,7 +26,7 @@ body{
     align-items: center;}
 .content p{
     width: 100%;
-    font-size: 30px;
+    font-size: 20px;
     font-style: italic;
     display: flex;
     justify-content: center;

@@ -33,6 +33,8 @@ body{
     color: rgb(60, 151, 84);
     padding: 0;
 }   
+
+
 ul{
     width: 70%;
     display: flex;
@@ -43,5 +45,5 @@ ul{
 }
 ul li{
     list-style: none;
+    
 }
-
